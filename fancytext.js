@@ -549,8 +549,7 @@ function generateFancy(txt) {
  });
 
 });
-</script>
- <script>
+
 $(function(){
 var intv = setInterval(function(){ $(".copybutton").html('Copy'); }, 2000);
   $("body").on('click',".copybutton",function() { 
