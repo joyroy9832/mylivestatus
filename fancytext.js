@@ -494,9 +494,7 @@ function backward(text) { return $('#english-text').val(); }                //]]
 			}
 		
 
-</script>
 
-<script>
 $(function() { 
  if($.trim($("#fancytext").val())!='') { 
     generateFancy($("#fancytext").val());
